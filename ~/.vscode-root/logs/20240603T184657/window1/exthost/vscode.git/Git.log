@@ -1,0 +1,74 @@
+2024-06-03 18:47:20.165 [info] Log level: Info
+2024-06-03 18:47:20.165 [info] Validating found git in: "git"
+2024-06-03 18:47:20.165 [info] Using git "2.34.1" from "git"
+2024-06-03 18:49:00.543 [info] Log level: Info
+2024-06-03 18:49:00.560 [info] Validating found git in: "git"
+2024-06-03 18:49:00.561 [info] Using git "2.34.1" from "git"
+2024-06-03 18:49:00.561 [info] > git rev-parse --show-toplevel [95ms]
+2024-06-03 18:49:00.561 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.618 [info] > git rev-parse --show-toplevel [34ms]
+2024-06-03 18:49:00.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.683 [info] > git rev-parse --show-toplevel [20ms]
+2024-06-03 18:49:00.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.706 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-03 18:49:00.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.725 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-03 18:49:00.725 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.748 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-03 18:49:00.748 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:00.767 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-03 18:49:00.768 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 18:49:10.145 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-03 18:49:10.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 19:08:10.441 [info] > git rev-parse --show-toplevel [95ms]
+2024-06-03 19:08:10.449 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 19:31:22.208 [info] > git rev-parse --show-toplevel [33ms]
+2024-06-03 19:31:22.209 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 19:31:27.037 [info] > git rev-parse --show-toplevel [61ms]
+2024-06-03 19:31:27.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-03 19:32:27.610 [info] > git rev-parse --show-toplevel [64ms]
+2024-06-03 19:32:27.612 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:48:28.045 [info] > git rev-parse --show-toplevel [89ms]
+2024-06-04 08:48:28.049 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:48:31.932 [info] > git rev-parse --show-toplevel [20ms]
+2024-06-04 08:48:31.932 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:48:33.895 [info] > git rev-parse --show-toplevel [33ms]
+2024-06-04 08:48:33.895 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:48:45.807 [info] > git rev-parse --show-toplevel [26ms]
+2024-06-04 08:48:45.808 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:49:10.655 [info] > git rev-parse --show-toplevel [33ms]
+2024-06-04 08:49:10.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:49:17.646 [info] > git rev-parse --show-toplevel [32ms]
+2024-06-04 08:49:17.647 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:51:16.349 [info] > git rev-parse --show-toplevel [19ms]
+2024-06-04 08:51:16.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:51:32.866 [info] > git rev-parse --show-toplevel [13ms]
+2024-06-04 08:51:32.866 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 08:59:36.927 [info] > git rev-parse --show-toplevel [14ms]
+2024-06-04 08:59:36.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:00:46.721 [info] > git rev-parse --show-toplevel [39ms]
+2024-06-04 09:00:46.722 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:01:34.859 [info] > git rev-parse --show-toplevel [30ms]
+2024-06-04 09:01:34.859 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:01:43.972 [info] > git rev-parse --show-toplevel [97ms]
+2024-06-04 09:01:43.973 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:02:04.588 [info] > git rev-parse --show-toplevel [21ms]
+2024-06-04 09:02:04.588 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:02:51.365 [info] > git rev-parse --show-toplevel [15ms]
+2024-06-04 09:02:51.365 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-04 09:30:20.617 [info] > git rev-parse --show-toplevel [17ms]
+2024-06-04 09:30:20.643 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-06-04 09:30:20.966 [info] Open repository: /home/chaimae/mysite
+2024-06-04 09:30:21.073 [info] > git config --get commit.template [28ms]
+2024-06-04 09:30:21.102 [info] No remotes found in the git config file.
+2024-06-04 09:30:21.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-06-04 09:30:21.114 [warning] No such branch: master.
+2024-06-04 09:30:21.218 [info] > git status -z -uall [90ms]
+2024-06-04 09:30:21.992 [info] > git config --get commit.template [130ms]
+2024-06-04 09:30:22.022 [info] No remotes found in the git config file.
+2024-06-04 09:30:22.025 [info] > git check-ignore -v -z --stdin [62ms]
+2024-06-04 09:30:22.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2024-06-04 09:30:22.059 [warning] No such branch: master.
+2024-06-04 09:30:22.132 [info] > git status -z -uall [66ms]
+2024-06-04 09:30:22.744 [info] > git show --textconv :users/templates/authenticate/courses.html [60ms]
+2024-06-04 09:30:22.744 [info] > git ls-files --stage -- /home/chaimae/mysite/users/templates/authenticate/courses.html [46ms]
