@@ -9,7 +9,7 @@ urlpatterns = [
     path("register/",views.register_page,name="regester"),
     path("table/",views.table,name="table"),
     path("courses/",views.courses,name="courses"),
- 
+    path("Nutriment/",views.Nutriment,name="nutriment"), 
   
 #  path("loginview",views.loginview.as_view(),name="loginview")
 ] 

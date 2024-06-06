@@ -3,6 +3,8 @@ from django.contrib.auth import authenticate, login
 from django.contrib import messages
 from django.contrib.auth.models import User
 
+def Nutriment(request):
+    return render(request,"authenticate/Nutriment.html")
 
 
 def home(request):
@@ -12,7 +14,7 @@ def courses(request):
      return render(request,"authenticate/courses.html")
 
 def table(request):
-   return render(request, "authenticate/index.html")
+   return render(request, "authenticate/table.html")
 
 def login_user(request):
     if request.method == "POST":

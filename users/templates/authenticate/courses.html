@@ -100,50 +100,86 @@
     <!-- Hero End -->
     <!--? Team -->
     <section class="team-area fix section-padding30">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section-tittle text-center mb-55">
-                        <h2>What I Offer</h2>
+        <!doctype html>
+        <html lang="en">
+          <head>
+            <!-- Required meta tags -->
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+        
+            <link rel="stylesheet" href="fonts/icomoon/style.css">
+        
+            <link rel="stylesheet" href="css/owl.carousel.min.css">
+        
+            <!-- Bootstrap CSS -->
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            
+            <!-- Style -->
+            <link rel="stylesheet" href={% static  'css-table-18/css/style.css' %}>
+        
+            <title></title>
+          </head>
+          <body>
+          
+        
+          <div class="content">
+            
+            <div class="container">
+              
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="section-tittle text-center mb-55">
+                            <h2>What I Offer</h2>
+                        </div>
                     </div>
                 </div>
+                <div class="form-floating">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <label for="floatingTextarea">Comments</label>
+                  </div>
+        
+              <div class="table-responsive custom-table-responsive">
+        
+                <table class="table custom-table">
+                  <thead>
+                    <tr>  
+        
+                      
+                     
+                      <th scope="col">Name</th>
+                      <th scope="col">Descraption</th>
+
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr scope="row">
+                    
+                      <td>
+                        1392
+                      </td>
+                      <td><a href="#">James Yates</a></td>
+                      <td>
+           
+
+                    </tr>
+                    <tr class="spacer"><td colspan="100"></td></tr>
+              
+            
+
+                    
+                  </tbody>
+                </table>
+              </div>
+        
+        
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30">
-                        <div class="cat-icon">
-                            <img src={% static 'users/assets/img/gallery/team1.png' %} alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Body Building</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30">
-                        <div class="cat-icon">
-                            <img src={% static 'users/assets/img/gallery/team2.png' %} alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Muscle Gain</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30">
-                        <div class="cat-icon">
-                            <img src={% static 'users/assets/img/gallery/team3.png' %} alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Weight Loss</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
+          </div> 
+  <script src={% static 'table/js/jquery-3.3.1.min.js' %}></script>
+  <script src={% static 'table/js/popper.min.js' %}></script>
+  <script src={% static 'table/js/bootstrap.min.js' %}></script>
+  <script src={% static 'table/js/main.js' %}></script>
     </section>
     <!-- Services End -->
     <!-- Traning categories Start -->
@@ -304,21 +340,21 @@
 
 <!-- JS here -->
 
-<script src={% static 'users/assets/js/vendor/modernizr-3.5.0.min.js %}></script>
+<script src={% static 'users/assets/js/vendor/modernizr-3.5.0.min.js' %}></script>
 <!-- Jquery, Popper, Bootstrap -->
-<script src={% static 'users/assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src={% static 'users/assets/js/popper.min.js"></script>
-<script src={% static 'users/assets/js/bootstrap.min.js"></script>
+<script src={% static 'users/assets/js/vendor/jquery-1.12.4.min.js' %}></script>
+<script src={% static 'users/assets/js/popper.min.js' %}></script>
+<script src={% static 'users/assets/js/bootstrap.min.js' %}></script>
 <!-- Jquery Mobile Menu -->
-<script src={% static 'users/assets/js/jquery.slicknav.min.js"></script>
+<script src={% static 'users/assets/js/jquery.slicknav.min.js' %}></script>
 
 <!-- Jquery Slick , Owl-Carousel Plugins -->
-<script src={% static 'users/assets/js/owl.carousel.min.js"></script>
-<script src={% static 'users/assets/js/slick.min.js"></script>
+<script src={% static 'users/assets/js/owl.carousel.min.js' %}></script>
+<script src={% static 'users/assets/js/slick.min.js' %}></script>
 <!-- One Page, Animated-HeadLin -->
-<script src={% static 'users/assets/js/wow.min.js"></script>
-<script src={% static 'users/assets/js/animated.headline.js"></script>
-<script src={% static 'users/assets/js/jquery.magnific-popup.js"></script>
+<script src={% static 'users/assets/js/wow.min.js' %}></script>
+<script src={% static 'users/assets/js/animated.headline.js' %}></script>
+<script src={% static 'users/assets/js/jquery.magnific-popup.js' %}></script>
 
 <!-- Date Picker -->
 <script src={% static 'users/assets/js/gijgo.min.js' %}></script>
@@ -342,6 +378,7 @@
 <!-- Jquery Plugins, main Jquery -->	
 <script src={% static 'users/assets/js/plugins.js' %}></script>
 <script src={% static 'users/assets/js/main.js' %}></script>
+
 
 </body>
 </html>

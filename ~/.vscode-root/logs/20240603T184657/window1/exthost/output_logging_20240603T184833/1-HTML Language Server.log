@@ -1,0 +1,83 @@
+[Error - 11:14:25 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:14:47 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:14:47 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:14:47 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:14:51 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:14:52 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 11:17:36 AM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790965
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790977)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 12:45:14 PM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/table.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 12:56:54 PM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/courses.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
+[Error - 12:57:35 PM] Error while computing completions for file:///home/chaimae/mysite/users/templates/authenticate/courses.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1363758)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791088)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:790365)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:791878)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1304603)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1290312
